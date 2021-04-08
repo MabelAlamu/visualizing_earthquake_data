@@ -6,7 +6,7 @@
 
 Welcome to the United States Geological Survey(USGS)! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. USGS collects a massive amount of data from all over the world each day, and I use leaflet to visualize their earthquake data.
 
-The final map can be found here: [Visualizing Earthquakes](https://mabelalamu.github.io/leaflet-challenge/)
+The final map can be found here: [Visualizing Earthquakes](https://mabelalamu.github.io/visualizing_earthquake_data/)
 
 ### Level 1: Basic Visualization
 
